@@ -39,6 +39,8 @@ release-client: client
 release-server: BUILDTAGS=release
 release-server: server
 
+heroku: server
+
 release-all: fmt release-client release-server
 
 all: fmt client server
