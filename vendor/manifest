@@ -1,0 +1,18 @@
+{
+	"version": 0,
+	"dependencies": [
+		{
+			"importpath": "github.com/jteeuwen/go-bindata",
+			"repository": "https://github.com/jteeuwen/go-bindata",
+			"revision": "a0ff2567cfb70903282db057e799fd826784d41d",
+			"branch": "master"
+		},
+		{
+			"importpath": "github.com/jteeuwen/go-bindata/go-bindata",
+			"repository": "https://github.com/jteeuwen/go-bindata",
+			"revision": "a0ff2567cfb70903282db057e799fd826784d41d",
+			"branch": "master",
+			"path": "/go-bindata"
+		}
+	]
+}
